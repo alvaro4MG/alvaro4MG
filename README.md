@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on my Computer Engineering degree at University of Alicante (Spain)
+- 🌱 I’m currently learning Unity and Unreal Engine
+- 🤔 I’m looking for help with game development
+- 📫 How to reach me: alvaromg8m@gmail.com
+- 😄 Pronouns: he/him
