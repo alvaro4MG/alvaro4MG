@@ -30,7 +30,10 @@ Here are some ideas to get you started:
 
 <div align="center">
   <a href="https://alvaro4mg.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="portfolio logo" />
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=&label=&color=e3b134&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="portfolio logo" />
+  </a>
+  <a href="https://www.linkedin.com/in/%C3%A1lvaro-mart%C3%ADnez-garc%C3%ADa-739966380/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
   <a href="https://alvaro4mg.itch.io/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Itch.io&logo=itchdotio&label=&color=e00c0c&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="itchio logo" />
@@ -57,7 +60,13 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">I'm a Computer Engineering graduate and a software and game developer from Spain.<br><br>- 🔭 I’m looking for jobs and opportunities in game development<br>- 📚 I'm currently learning Unity <br>- ⚡ In my free time I'm practising PixelArt to broaden my skill set</p>
+<p align="left">
+  I'm a Computer Engineering graduate and a software and game developer from Spain.<br><br>
+  - 🔭 I’m looking for jobs and opportunities in game development<br>
+  - 📚 I'm currently learning Unity <br>
+  - ⚡ In my free time I'm practising PixelArt to broaden my skill set<br>
+  - 📫 How to reach me: alvaromg8m@gmail.com
+</p>
 
 ###
 
